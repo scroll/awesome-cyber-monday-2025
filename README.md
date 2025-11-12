@@ -93,8 +93,6 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 
 We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting a pull request.
 
-To add a deal, please use our [deal submission template](.github/ISSUE_TEMPLATE/deal.md).
-
 ## ⭐ How to Use This List
 
 1. **Star this repo** to keep track of deals
