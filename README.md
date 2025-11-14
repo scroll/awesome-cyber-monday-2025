@@ -67,7 +67,8 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
-| | | | | |
+| [Calorific - Nutrition Tracker](https://apps.apple.com/app/apple-store/id6645043253) | Quickly capture your meals and get instant nutritional insights. | **30% OFF** yearly plan with code **BLACKFRIDAY** | [Redeem deal](https://apps.apple.com/redeem?ctx=offercodes&id=6645043253&code=BLACKFRIDAY) | Nov 14 - Dec 2 |
+| [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code **BLACKFRIDAY** | [Redeem deal](https://apps.apple.com/redeem?ctx=offercodes&id=6458535284&code=BLACKFRIDAY) | Nov 14 - Dec 2 |
 
 ## 🎮 Hardware & Gadgets
 
