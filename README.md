@@ -31,7 +31,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
-| | | | | |
+| [Tower](https://www.git-tower.com/) | Powerful Git client for Mac and Windows | 30% OFF any plan for new customers only, no coupon needed | [Get Deal](https://www.git-tower.com/pricing) | Nov 25 - Dec 7 |
 
 ## 🎨 Design Software
 
