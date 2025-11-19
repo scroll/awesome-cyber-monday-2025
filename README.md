@@ -69,8 +69,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
 | Litur(iOS) | A color picker for the real world. Litur helps you find and collect all the colors around you. | 33% OFF Lifetime | https://apps.apple.com/us/app/litur/id1487096693?ls=1 | Nov 24th 2025 - Dec 2nd 2025 |
-| Blark(iOS) | The best way to take monochrome/black & white pictures
-and videos on the iPhone and iPad | 30% OFF Yearly Plan | https://apps.apple.com/redeem?ctx=offercodes&id=6742157071&code=BLARKFRIDAY | Nov 24th 2025 - Dec 2nd 2025 |
+| Blark(iOS) | The best way to take monochrome/black & white pictures and videos on the iPhone and iPad | 30% OFF Yearly Plan | https://apps.apple.com/redeem?ctx=offercodes&id=6742157071&code=BLARKFRIDAY | Nov 24th 2025 - Dec 2nd 2025 |
 
 ## 🎮 Hardware & Gadgets
 
