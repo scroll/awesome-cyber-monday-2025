@@ -93,7 +93,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
 | [DeployHQ](https://www.deployhq.com/) | Deploy code from your repository to servers automatically | 50% OFF for 3 months (auto-applied at checkout) | [Get Deal](https://www.deployhq.com/??utm_source=website&utm_medium=sponsor&utm_campaign=saas-black-friday-2025) | Nov 25 - Dec 2 |
-| [PingPing.io](https://pingping.io) | Simple and reliable website uptime & SSL-certificate monitoring. Performs 30-second health checks, alerts you immediately on downtime or expiring SSL certs, and offers clean public status-pages + a full-featured API. | LIFETIME 25% OFF with code **CYBER25** | Nov 27 - Dec 5 |
+| [PingPing.io](https://pingping.io) | Simple and reliable website uptime & SSL-certificate monitoring. Performs 30-second health checks, alerts you immediately on downtime or expiring SSL certs, and offers clean public status-pages + a full-featured API. | LIFETIME 25% OFF with code **CYBER25** | [Get Deal](https://pingping.io/?ref=awesome-cyber-monday) | Nov 27 - Dec 5 |
 
 ## 📱 Mobile Apps
 
